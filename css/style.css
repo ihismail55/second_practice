@@ -1,0 +1,39 @@
+.head{
+	min-height: 80px;
+	background-color: blue;
+	text-align: center;
+	border: 1px solid white;
+}
+.wrap{
+	overflow: hidden;
+	
+}
+.blog{
+
+	min-height:400px;
+	background-color: skyblue;
+	width: 60%;
+	float: left;
+	text-align: center;
+
+	
+}
+
+.contact{
+
+	min-height: 400px;
+	background-color: pink;
+	width: 40%;
+	float: right;
+	text-align: center;
+}
+	
+.footer{
+	min-height: 80px;
+	background-color: green;
+	text-align: center;
+	border: 2px solid white;
+}
+	
+
+
